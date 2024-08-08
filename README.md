@@ -17,5 +17,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-singh-98060a293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-singh-98060a293/" height="30" width="40" /></a>
 <a href="https://instagram.com/its_.ayush.singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_.ayush.singh/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush_singh2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_singh2005/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush_singh_iiitkota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_singh2005/" height="30" width="40" /></a>
 </p>
