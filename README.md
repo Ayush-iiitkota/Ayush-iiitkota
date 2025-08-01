@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **D.S.A**
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to Contact me **ayushsinghsingh12467@gmail.com**
   <hr>
