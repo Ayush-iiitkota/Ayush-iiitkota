@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091](https://github.com/user-attachments/assets/feaa5485-f882-4a8f-84b4-d29591756ffa)
-" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif" width="50%" />
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Business Analyst | IIIT Kota</h3>
