@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091](https://github.com/user-attachments/assets/feaa5485-f882-4a8f-84b4-d29591756ffa)
+" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Business Analyst | IIIT Kota</h3>
 
