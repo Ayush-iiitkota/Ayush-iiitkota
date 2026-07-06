@@ -103,7 +103,7 @@ Developed a REST API using <b>FastAPI</b> and <b>MySQL</b> implementing complete
 
 <ul>
 <li>⭐ 5 Star SQL on HackerRank</li>
-<li>🧠 Solved 150+ SQL Problems (LeetCode, DataLemur & HackerRank)</li>
+<li>🧠 Solved 200+ SQL Problems (LeetCode, DataLemur & HackerRank)</li>
 <li>📊 Built multiple real-world analytics dashboards and backend projects</li>
 </ul>
 
