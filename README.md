@@ -3,23 +3,23 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Business Analyst | IIIT Kota</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | IIIT Kota</h3>
 
 <hr>
 
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programmer.gif" align="right" height="250px">
 
-- 🎓 B.Tech CSE student at IIIT Kota
-- 📊 Passionate about **Data Analytics, Business Intelligence & API Development**
-- 🌱 Currently learning **Apache Airflow, n8n, AI Automation & Workflow Orchestration**
-- 💡 Skilled in **SQL, Python, Power BI, REST APIs & FastAPI**
-- 📈 Experienced in **Data Cleaning, EDA, Dashboard Development, Web Scraping & API Development**
-- 💬 Ask me about **SQL, Power BI, Excel, Python, FastAPI, REST APIs & Web Scraping**
-- 📫 Reach me at **ayushsinghsingh12467@gmail.com**
+- 🎓 B.Tech CSE student at IIIT Kota (2023–2027)
+- 📊 Passionate about Data Analytics, Machine Learning & Business Intelligence
+- 🌱 Currently learning Apache Airflow, n8n & AI Workflow Automation
+- 💡 Skilled in SQL, Python, Power BI, Tableau, FastAPI & REST APIs
+- 📈 Experienced in Data Cleaning, EDA, Dashboard Development, Machine Learning, Web Scraping & API Development
+- 💬 Ask me about SQL, Python, Power BI, Tableau, FastAPI, REST APIs & Machine Learning
+- 📫 Reach me at **2023kucp1090@iiitkota.ac.in**
 
 <hr>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
 
@@ -35,12 +35,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
@@ -51,8 +51,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/>
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
@@ -79,60 +83,84 @@
 
 <hr>
 
-<h3 align="left">📊 Featured Projects:</h3>
+<h3 align="left">💼 Experience</h3>
 
 <ul>
 
 <li>
-<b>🏏 IPL 2026 Auction Web Scraping</b><br>
-Built a Python-based web scraper using <b>BeautifulSoup</b>, <b>Requests</b>, and <b>Pandas</b> to extract IPL Auction player details, clean the data, and export structured datasets for analysis.
+<b>KultureHire Internship</b><br>
+Worked on SQL, Excel & Power BI to clean, transform and visualize business data. Built KPI dashboards using DAX and improved reporting efficiency.
 </li>
 
 <br>
 
 <li>
-<b>🚀 User Management CRUD REST API</b><br>
-Developed a REST API using <b>FastAPI</b> and <b>MySQL</b> implementing complete CRUD operations with request validation using <b>Pydantic</b> and endpoint testing through <b>Postman</b>.
+<b>Quantium Virtual Internship</b><br>
+Performed EDA, customer segmentation and sales analysis using Python, Tableau and Excel to generate business insights.
 </li>
 
 </ul>
 
 <hr>
 
-<h3 align="left">🏆 Achievements:</h3>
+<h3 align="left">🚀 Featured Projects</h3>
 
 <ul>
-<li>⭐ 5 Star SQL on HackerRank</li>
-<li>🧠 Solved 200+ SQL Problems (LeetCode, DataLemur & HackerRank)</li>
-<li>📊 Built multiple real-world analytics dashboards and backend projects</li>
+
+<li>
+<b>🏏 IPL 2026 Auction Web Scraping</b><br>
+Developed a web scraper using Python, BeautifulSoup, Requests and Pandas to collect, clean and export IPL Auction data for analysis.
+</li>
+
+<br>
+
+<li>
+<b>📈 Customer Churn Analysis & Prediction</b><br>
+Performed EDA and customer segmentation before building Logistic Regression and Random Forest models achieving <b>91.6% accuracy</b> for churn prediction.
+</li>
+
+<br>
+
+<li>
+<b>⚡ User Management REST API</b><br>
+Built a CRUD REST API using FastAPI, MySQL, Pydantic and Postman with validation, caching and endpoint testing.
+</li>
+
 </ul>
 
 <hr>
 
-<h3 align="left">📜 Certifications:</h3>
+<h3 align="left">🏆 Achievements</h3>
+
+<ul>
+<li>⭐ 5-Star SQL Badge on HackerRank</li>
+<li>🧠 Solved 200+ SQL Problems across LeetCode, DataLemur & HackerRank</li>
+<li>📊 Built real-world Data Analytics, Machine Learning, Web Scraping & REST API projects</li>
+</ul>
+
+<hr>
+
+<h3 align="left">📜 Certifications</h3>
 
 <ul>
 <li>IBM Data Analytics Professional Certificate</li>
-<li>Advanced SQL Certificate HackerRank</li>
+<li>Advanced SQL – HackerRank</li>
 <li>Accenture Data Analytics & Visualization – Forage</li>
 </ul>
 
 <hr>
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ayush-singh-98060a293/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+
+<a href="https://www.linkedin.com/in/ayush-singh-98060a293/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<a href="https://instagram.com/its_.ayush.singh/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.leetcode.com/ayush_singh_iiitkota/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+<a href="https://leetcode.com/ayush_singh_iiitkota/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 
 </p>
