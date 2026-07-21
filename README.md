@@ -3,19 +3,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | IIIT Kota</h3>
+<h3 align="center">Generative AI Engineer | LLMs • RAG • FastAPI | IIIT Kota</h3>
 
 <hr>
 
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programmer.gif" align="right" height="250px">
 
 - 🎓 B.Tech CSE student at IIIT Kota (2023–2027)
-- 📊 Passionate about Data Analytics, Machine Learning & Business Intelligence
-- 🌱 Currently learning Apache Airflow, n8n & AI Workflow Automation
-- 💡 Skilled in SQL, Python, Power BI, Tableau, FastAPI & REST APIs
-- 📈 Experienced in Data Cleaning, EDA, Dashboard Development, Machine Learning, Web Scraping & API Development
-- 💬 Ask me about SQL, Python, Power BI, Tableau, FastAPI, REST APIs & Machine Learning
+- 🤖 Passionate about Generative AI, LLMs, AI Agents & Backend Development
+- 🌱 Currently building AI-powered applications using LangChain, OpenAI, FastAPI & n8n
+- 💡 Skilled in Python, SQL, FastAPI, LangChain, OpenAI, Pinecone, SQLModel, SQLite & PostgreSQL
+- 🚀 Experienced in RAG Pipelines, Vector Databases, REST APIs, AI Workflow Automation, Web Scraping & Cloud Deployment
+- 💬 Ask me about Python, FastAPI, LangChain, OpenAI, RAG, AI Agents, SQL & REST APIs
 - 📫 Reach me at **2023kucp1090@iiitkota.ac.in**
+
+<hr>
 
 <hr>
 
@@ -23,10 +25,59 @@
 
 <p align="left">
 
+<!-- Programming Languages -->
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<!-- AI & LLM -->
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+</a>
+
+<a href="https://platform.openai.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.pinecone.io/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40"/>
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+</a>
+
+<!-- Backend -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.uvicorn.org/" target="_blank">
+<img src="https://www.svgrepo.com/show/373554/python.svg" width="40" height="40"/>
+</a>
+
+<!-- Databases -->
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://supabase.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="40" height="40"/>
+</a>
+
+<!-- Data Science -->
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
@@ -39,49 +90,42 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
 
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
+<!-- Web -->
+<a href="https://streamlit.io/" target="_blank">
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<!-- Automation -->
+<a href="https://n8n.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40"/>
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://n8n.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40"/>
+<!-- Cloud -->
+<a href="https://render.com/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/53148011?s=200&v=4" width="40" height="40"/>
 </a>
 
-</p>
 
-<hr>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<!-- API -->
+<a href="https://swagger.io/" target="_blank">
+<img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+
+
+
+</p>
 
 <h3 align="left">💼 Experience</h3>
 
@@ -103,32 +147,32 @@ Performed EDA, customer segmentation and sales analysis using Python, Tableau an
 
 <hr>
 
+<hr>
+
 <h3 align="left">🚀 Featured Projects</h3>
 
 <ul>
 
 <li>
-<b>🏏 IPL 2026 Auction Web Scraping</b><br>
-Developed a web scraper using Python, BeautifulSoup, Requests and Pandas to collect, clean and export IPL Auction data for analysis.
+<b>🤖 LLM-Powered RAG Chatbot</b><br>
+Built an intelligent document question-answering system using <b>LangChain, OpenAI, Pinecone, HuggingFace</b> and <b>Streamlit</b>. Implemented document ingestion, semantic chunking, embeddings, vector search and conversational memory for accurate contextual responses.
 </li>
 
 <br>
 
 <li>
-<b>📈 Customer Churn Analysis & Prediction</b><br>
-Performed EDA and customer segmentation before building Logistic Regression and Random Forest models achieving <b>91.6% accuracy</b> for churn prediction.
+<b>⚡ Production-Ready Inventory Management REST API</b><br>
+Developed a production-ready CRUD REST API using <b>FastAPI, SQLModel, SQLite</b> and deployed it on <b>Render</b>. Implemented request validation, exception handling, Swagger UI documentation and cloud deployment.
 </li>
 
 <br>
 
 <li>
-<b>⚡ User Management REST API</b><br>
-Built a CRUD REST API using FastAPI, MySQL, Pydantic and Postman with validation, caching and endpoint testing.
+<b>🧠 RAG AI Agent using n8n</b><br>
+Built a low-code AI Agent using <b>n8n, LangChain, OpenAI, PostgreSQL</b> and <b>Supabase</b>. Automated AI workflows with vector search, embeddings and API integrations for intelligent document retrieval.
 </li>
 
 </ul>
-
-<hr>
 
 <h3 align="left">🏆 Achievements</h3>
 
